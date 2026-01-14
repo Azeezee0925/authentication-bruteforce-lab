@@ -1,7 +1,10 @@
 # Authentication Brute-Force & Username Enumeration Lab
 
 **Platform:** PortSwigger Web Security Academy  
-**Category:** Authentication Vulnerabilities - Username enumeration via different responses.
+**Category:** Authentication Vulnerabilities 
+- Username enumeration via different responses.
+- Username enumertion via subtly different responses.
+- Username enumeration via response timing.
 
 
 ---
@@ -25,6 +28,8 @@ To understand how authentication mechanisms can be abused using brute-force tech
 4. Observed response messages, status codes, and response times.
 5. Identified valid username based on different response behavior.
 6. Completed the lab by bypassing authentication protection.
+7. Worked with Burp Repeater.
+8. Used Grep - Extract.
 
 ---
 
